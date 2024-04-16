@@ -1,6 +1,6 @@
 /* Font */
-@import url(https://fonts.googleapis.com/css?family=Patrick+Hand&subset=latin,latin-ext);
-
+/*@import url(https://fonts.googleapis.com/css?family=Patrick+Hand&subset=latin,latin-ext);*/
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 
 
 /* Moderni box model */
@@ -20,8 +20,8 @@ body {
 }
 
 h1, h2 {
-    font-family: 'Patrick Hand', cursive;
-    color: #332a2d;
+    font-family:  "Lobster", sans-serif;/*'Patrick Hand',*/
+color: #332a2d;
 }
 
 h1 {
